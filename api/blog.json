@@ -8,7 +8,7 @@
       "img": "https://source.unsplash.com/random/520x521"
     },
     "posted_date": "2023-09-13",
-    "reading_time": 10,
+    "reading_time": "10",
     "hashtags": ["programming", "webdevelopment", "reactjs"]
   },
   {
@@ -20,7 +20,7 @@
       "img": "https://source.unsplash.com/random/510x510"
     },
     "posted_date": "2023-09-14",
-    "reading_time": 8,
+    "reading_time": "8",
     "hashtags": ["webdesign", "cssgrid", "webdevelopment"]
   },
   {
@@ -32,7 +32,7 @@
       "img": "https://source.unsplash.com/random/550x550"
     },
     "posted_date": "2023-09-15",
-    "reading_time": 15,
+    "reading_time": "15",
     "hashtags": ["programming", "python", "debugging"]
   },
   {
@@ -44,7 +44,7 @@
       "img": "https://source.unsplash.com/random/512x512"
     },
     "posted_date": "2023-09-16",
-    "reading_time": 12,
+    "reading_time": "12",
     "hashtags": ["webdevelopment", "webdesign", "responsivedesign"]
   },
   {
@@ -56,7 +56,7 @@
       "img": "https://source.unsplash.com/random/520x510"
     },
     "posted_date": "2023-09-17",
-    "reading_time": 7,
+    "reading_time": "7",
     "hashtags": ["programming", "javascript", "webdevelopment"]
   },
   {
@@ -68,7 +68,7 @@
       "img": "https://source.unsplash.com/random/513x520"
     },
     "posted_date": "2023-09-18",
-    "reading_time": 14,
+    "reading_time": "14",
     "hashtags": ["webdevelopment", "nodejs", "express"]
   },
   {
@@ -80,7 +80,7 @@
       "img": "https://source.unsplash.com/random/530x530"
     },
     "posted_date": "2023-09-19",
-    "reading_time": 9,
+    "reading_time": "9",
     "hashtags": ["webdesign", "uxdesign", "userexperience"]
   },
   {
@@ -92,7 +92,7 @@
       "img": "https://source.unsplash.com/random/526x526"
     },
     "posted_date": "2023-09-20",
-    "reading_time": 11,
+    "reading_time": "11",
     "hashtags": ["datascience", "analytics", "data"]
   },
   {
@@ -104,7 +104,7 @@
       "img": "https://source.unsplash.com/random/532x532"
     },
     "posted_date": "2023-09-21",
-    "reading_time": 13,
+    "reading_time": "13",
     "hashtags": ["webdevelopment", "frontend", "frameworks"]
   },
   {
@@ -116,7 +116,7 @@
       "img": "https://source.unsplash.com/random/522x523"
     },
     "posted_date": "2023-09-22",
-    "reading_time": 16,
+    "reading_time": "16",
     "hashtags": ["cybersecurity", "security", "digital"]
   }
 ]
