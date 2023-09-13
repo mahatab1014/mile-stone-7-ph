@@ -1,242 +1,122 @@
 [
   {
     "id": "1",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1920x1081",
     "title": "Building Modern Web Applications with React",
     "author": {
       "name": "John Developer",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/520x521"
     },
     "posted_date": "2023-09-13",
-    "reading_time": "10",
+    "reading_time": 10,
     "hashtags": ["programming", "webdevelopment", "reactjs"]
   },
   {
     "id": "2",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1921x1080",
     "title": "Mastering CSS Grid Layout for Web Designers",
     "author": {
       "name": "Jane Designer",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/510x510"
     },
     "posted_date": "2023-09-14",
-    "reading_time": "8",
+    "reading_time": 8,
     "hashtags": ["webdesign", "cssgrid", "webdevelopment"]
   },
   {
     "id": "3",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1922x1082",
     "title": "Effective Debugging Techniques in Python",
     "author": {
       "name": "Python Enthusiast",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/550x550"
     },
     "posted_date": "2023-09-15",
-    "reading_time": "15",
+    "reading_time": 15,
     "hashtags": ["programming", "python", "debugging"]
   },
   {
     "id": "4",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1900x1080",
     "title": "Responsive Web Design Principles Every Developer Should Know",
     "author": {
       "name": "Web Developer Pro",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/512x512"
     },
     "posted_date": "2023-09-16",
-    "reading_time": "12",
+    "reading_time": 12,
     "hashtags": ["webdevelopment", "webdesign", "responsivedesign"]
   },
   {
     "id": "5",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1920x1084",
     "title": "JavaScript Fundamentals: From Basics to Advanced Concepts",
     "author": {
       "name": "JS Guru",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/520x510"
     },
     "posted_date": "2023-09-17",
-    "reading_time": "7",
+    "reading_time": 7,
     "hashtags": ["programming", "javascript", "webdevelopment"]
   },
   {
     "id": "6",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1923x1080",
     "title": "Backend Development with Node.js and Express",
     "author": {
       "name": "Node Ninja",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/513x520"
     },
     "posted_date": "2023-09-18",
-    "reading_time": "14",
+    "reading_time": 14,
     "hashtags": ["webdevelopment", "nodejs", "express"]
   },
   {
     "id": "7",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1920x1086",
     "title": "Designing User-Friendly Interfaces: UX Principles",
     "author": {
       "name": "UX Designer",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/530x530"
     },
     "posted_date": "2023-09-19",
-    "reading_time": "9",
+    "reading_time": 9,
     "hashtags": ["webdesign", "uxdesign", "userexperience"]
   },
   {
     "id": "8",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1990x1090",
     "title": "The World of Data Science: Insights and Analytics",
     "author": {
       "name": "Data Scientist",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/526x526"
     },
     "posted_date": "2023-09-20",
-    "reading_time": "11",
+    "reading_time": 11,
     "hashtags": ["datascience", "analytics", "data"]
   },
   {
     "id": "9",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1880x1020",
     "title": "Frontend Frameworks: Comparing Angular, React, and Vue.js",
     "author": {
       "name": "Frontend Developer",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/532x532"
     },
     "posted_date": "2023-09-21",
-    "reading_time": "13",
+    "reading_time": 13,
     "hashtags": ["webdevelopment", "frontend", "frameworks"]
   },
   {
     "id": "10",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
+    "cover_photo": "https://source.unsplash.com/random/1918x1079",
     "title": "Cybersecurity Best Practices: Protecting Your Digital World",
     "author": {
       "name": "Cybersecurity Expert",
-      "img": "https://source.unsplash.com/random/520x520"
+      "img": "https://source.unsplash.com/random/522x523"
     },
     "posted_date": "2023-09-22",
-    "reading_time": "16",
+    "reading_time": 16,
     "hashtags": ["cybersecurity", "security", "digital"]
-  },
-  {
-    "id": "11",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "Mobile App Development: From Idea to App Store",
-    "author": {
-      "name": "App Developer",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-09-23",
-    "reading_time": "10",
-    "hashtags": ["mobileapp", "appdevelopment", "ios", "android"]
-  },
-  {
-    "id": "12",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "Web Accessibility: Making the Internet Inclusive",
-    "author": {
-      "name": "Accessibility Advocate",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-09-24",
-    "reading_time": "12",
-    "hashtags": ["webdevelopment", "accessibility", "inclusivedesign"]
-  },
-  {
-    "id": "13",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "Cloud Computing Demystified: AWS, Azure, and Google Cloud",
-    "author": {
-      "name": "Cloud Architect",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-09-25",
-    "reading_time": "9",
-    "hashtags": ["cloudcomputing", "aws", "azure", "googlecloud"]
-  },
-  {
-    "id": "14",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "Web Performance Optimization: Speeding Up Your Websites",
-    "author": {
-      "name": "Performance Guru",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-09-26",
-    "reading_time": "11",
-    "hashtags": ["webdevelopment", "performance", "optimization"]
-  },
-  {
-    "id": "15",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "Blockchain Technology: Beyond Cryptocurrency",
-    "author": {
-      "name": "Blockchain Enthusiast",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-09-27",
-    "reading_time": "14",
-    "hashtags": ["blockchain", "technology", "cryptocurrency"]
-  },
-  {
-    "id": "16",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "Machine Learning and AI: Shaping the Future of Technology",
-    "author": {
-      "name": "AI Researcher",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-09-28",
-    "reading_time": "13",
-    "hashtags": ["machinelearning", "artificialintelligence", "technology"]
-  },
-  {
-    "id": "17",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "The Power of DevOps: Streamlining Development and Operations",
-    "author": {
-      "name": "DevOps Engineer",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-09-29",
-    "reading_time": "9",
-    "hashtags": ["devops", "development", "operations"]
-  },
-  {
-    "id": "18",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "E-commerce Website Design: Best Practices for Online Stores",
-    "author": {
-      "name": "E-commerce Expert",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-09-30",
-    "reading_time": "12",
-    "hashtags": ["webdesign", "ecommerce", "onlinestore"]
-  },
-  {
-    "id": "19",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "Game Development 101: From Idea to Playable Game",
-    "author": {
-      "name": "Game Developer",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-10-01",
-    "reading_time": "15",
-    "hashtags": ["gamedev", "gamedevelopment", "indiegames"]
-  },
-  {
-    "id": "20",
-    "cover_photo": "https://source.unsplash.com/random/1920x1080",
-    "title": "Data Visualization: Making Data Come to Life",
-    "author": {
-      "name": "Data Visualization Artist",
-      "img": "https://source.unsplash.com/random/520x520"
-    },
-    "posted_date": "2023-10-02",
-    "reading_time": "10",
-    "hashtags": ["datavisualization", "data", "design"]
-  }
+  },  
 ]
