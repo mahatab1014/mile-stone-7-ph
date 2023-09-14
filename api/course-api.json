@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction to Python Programming",
+    "description": "Learn the fundamentals of Python programming, including variables, data types, and control structures.",
+    "cover_img": "https://i.ibb.co/y0yJ26f/python-programming.jpg",
+    "price": "49.99",
+    "credit": "3"
+  },
+  {
+    "id": "2",
+    "title": "Web Development with HTML and CSS",
+    "description": "Master the basics of web development with HTML and CSS to create stunning websites.",
+    "cover_img": "https://i.ibb.co/BjC2CWX/html-css.jpg",
+    "price": "59.99",
+    "credit": "4"
+  },
+  {
+    "id": "3",
+    "title": "JavaScript for Front-End Development",
+    "description": "Learn JavaScript to build interactive and dynamic user interfaces for web applications.",
+    "cover_img": "https://i.ibb.co/K9MyGpS/javascript-react-js.jpg",
+    "price": "69.99",
+    "credit": "4"
+  },
+  {
+    "id": "4",
+    "title": "Data Science with Python",
+    "description": "Explore data analysis and visualization using Python for real-world data science projects.",
+    "cover_img": "https://i.ibb.co/GxfzSZK/Data-Science.jpg",
+    "price": "79.99",
+    "credit": "5"
+  },
+  {
+    "id": "5",
+    "title": "Java Programming Masterclass",
+    "description": "Become a Java expert with hands-on coding exercises and in-depth knowledge of Java concepts.",
+    "cover_img": "https://i.ibb.co/k84zbXy/java-master-class.jpg",
+    "price": "69.99",
+    "credit": "10"
+  },
+  {
+    "id": "6",
+    "title": "Full-Stack Web Development Bootcamp",
+    "description": "Learn both front-end and back-end development to create full-stack web applications.",
+    "cover_img": "https://i.ibb.co/5s7rtSc/full-stack.jpg",
+    "price": "99.99",
+    "credit": "6"
+  },
+  {
+    "id": "7",
+    "title": "Python for Machine Learning",
+    "description": "Master Python libraries like NumPy and pandas for machine learning and data analysis.",
+    "cover_img": "https://i.ibb.co/pZzw4tB/python-m.jpg",
+    "price": "89.99",
+    "credit": "5"
+  },
+  {
+    "id": "8",
+    "title": "iOS App Development with Swift",
+    "description": "Build iOS apps using Swift programming language and the latest iOS development tools.",
+    "cover_img": "https://i.ibb.co/QMT1RNf/ios-app.jpg",
+    "price": "79.99",
+    "credit": "8"
+  },
+  {
+    "id": "9",
+    "title": "C++ Programming Essentials",
+    "description": "Learn the basics of C++ programming, from variables to object-oriented programming.",
+    "cover_img": "https://i.ibb.co/2nWm2M8/c.jpg",
+    "price": "59.99",
+    "credit": "3"
+  },
+  {
+    "id": "10",
+    "title": "Cybersecurity Fundamentals",
+    "description": "Explore the fundamentals of cybersecurity, including threats, defenses, and best practices.",
+    "cover_img": "https://i.ibb.co/2qhhvCd/cyber-security.jpg",
+    "price": "69.99",
+    "credit": "4"
+  },
+  {
+    "id": "11",
+    "title": "Machine Learning for Beginners",
+    "description": "Get started with machine learning, algorithms, and data analysis in Python.",
+    "cover_img": "https://i.ibb.co/kJV6wT8/Machine-Learning.jpg",
+    "price": "54.99",
+    "credit": "3"
+  },
+  {
+    "id": "12",
+    "title": "Database Management with SQL",
+    "description": "Learn SQL for managing databases, querying data, and database design.",
+    "cover_img": "https://i.ibb.co/j4ZQhDx/database.jpg",
+    "price": "49.99",
+    "credit": "3"
+  }
+]
